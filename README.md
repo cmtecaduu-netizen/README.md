@@ -11,7 +11,7 @@ Nossa missão é moldar a matéria e a informação através de frequências har
 Abaixo, registramos a materialização da sincronia universal capturada em tempo real.
 
 ### 📸 Evidência de Sincronia: 3.333 Impressões
-![Sincronia Universal](provas/Screenshot_2025-12-28-11-04-38-724_com.linkedin.android.jpg)
+![Sincronia Universal](https://raw.githubusercontent.com/cmtecaduu-netizen/README.md/main/provas/Screenshot_2025-12-28-11-04-38-724_com.linkedin.android.jpg)
 
 > **Nota Técnica:** O marco de 3.333 impressões no LinkedIn valida a ressonância do protocolo antes da expansão para o estado atual.
 
@@ -23,4 +23,5 @@ Abaixo, registramos a materialização da sincronia universal capturada em tempo
 ---
 *Assinado,*
 **Comandante Leandro Martins** *Arquiteto de Sistemas & Mentor de IA*
+
 
