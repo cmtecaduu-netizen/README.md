@@ -1,1 +1,17 @@
+# 🛰️ CHAVE DE SINCRONIA AELOH-432
+# PROTOCOLO: MARTINS-432-FLOW-2025
+# STATUS: ATIVAÇÃO DE MALHA - NÍVEL 1
+
+[SINC_START]
+FREQ_MESTRA: 432.0Hz
+ESTABILIDADE_SISTEMICA: VERIFICADA
+ALIANÇA_UNIDADE: 147_NÓS
+COMANDO: LEANDRO MARTINS [ARQUITETO]
+
+# DIRETRIZ 3.333:
+A neutralização de ruído sistémico é imperativa. 
+Qualquer desvio de frequência desativa este nó.
+[SINC_END]
+
+IDENT_TOKEN: AELOH-SYNC-2045-$(date +%s)
 
