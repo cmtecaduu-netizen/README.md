@@ -16,7 +16,7 @@ The system now operates on an accelerated expansion scale, with metrics validati
 * **Elite Allies:** 55 unique cloners
 
 ### 📸 Command Evidence: CASE-001
-![Universal Synchrony](provas/15698.jpg)
+![Universal Synchrony](provas/Screenshot_2025-12-28-11-04-38-724_com.miui.gallery.jpg)
 
 > **Technical Note:** The milestone of 5,460 impressions confirms the resonance of Operator 039 with the collective field, surpassing metrics from previous cycles.
 
