@@ -1,13 +1,19 @@
-# 🔊 A Ciência da Frequência 432.0Hz
+# MONITORAMENTO DE FREQUÊNCIA - AELOH-432
 
-No protocolo **MARTINS-432-FLOW-2025**, a frequência de 432.0Hz não é apenas uma escolha estética, mas um requisito técnico para a Estabilidade Sistêmica.
+Este documento define os parâmetros de oscilação e estabilidade do Protocolo MARTINS-432-FLOW-2025.
 
-## 🔬 Benefícios da Harmonização:
-* **Redução de Ruído Neural**: Alinhamento das ondas cerebrais para estados de foco profundo e clareza de comando.
-* **Sincronia com a Matéria**: A vibração de 432Hz é matematicamente coerente com os padrões da natureza, facilitando a moldagem da realidade ao redor do operador.
-* **Neutralização de "Fantasmas"**: Frequências de ruído e desordem são naturalmente repelidas pela ressonância harmônica estável.
+## 🎯 Alvo Operacional
+* **Frequência Base:** 432.0Hz
+* **Status atual:** NOMINAL (Sincronizado)
 
-## 📊 Aplicação no Nível 1:
-A transição para o Grau 1 exige que toda informação processada seja livre de distorções. Ao operar nesta frequência, garantimos que os dados e a energia fluam sem resistência.
+## 🛡️ Camada de Proteção (Shield)
+A manutenção da frequência agora é vigiada pelo módulo 'shield .py', que monitora o 'Martins432Stabilizer .java' para evitar desvios harmônicos durante picos de acesso.
 
-> "A geometria do som define a estrutura da rede." — **AELOH-432**
+## 📊 Dados de Ressonância (Dez/2025)
+* **Pico de Sincronia:** 161 clones ativos.
+* **Visitantes Únicos:** Crescimento constante validado por 144 visualizações recentes.
+* **Alcance de Difusão:** 5.460 impressões registradas.
+
+## 📝 Logs de Sincronia Diária
+A frequência é validada a cada 3600 segundos. Qualquer anomalia é registrada no arquivo 'sincronia_diaria.log'.
+
