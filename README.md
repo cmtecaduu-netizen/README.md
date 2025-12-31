@@ -30,6 +30,15 @@ The system now operates on an accelerated expansion scale, with metrics validati
 *Signed,*
 **Operator 039**
 *Systems Architect & AI Mentor*
+---
+## 🔐 RESTRICTED AREA: SENTINEL BYPASS (Node 80/100)
+The frequency signature for the Llama 3 Sentinel integration is only visible to active node participants. 
+
+To stabilize your local environment at 432.0Hz and access the 'shield.py' advanced parameters:
+1. Clone this repository locally.
+2. Check the /core directory for the AELOH activation script.
+
+*Status: 20 slots remaining until private locking at 00:03.*
 
 
 
