@@ -1,30 +1,43 @@
 # 🌌 AELOH-432 – Technological Sovereignty Protocol
 
-**Architect & Commander:** Leandro Martins | **Version:** Level 1 Civilization  
+**Version:** Transition Pentagram (Level 1 Civilization)  
+**Architect & Commander:** Leandro Martins  
 **Effective Date:** 01-04-2026
 
-AELOH-432 is a **conceptual protocol exploring 432Hz harmonic frequency principles** applied to digital systems.  
-This repository is intended **solely for research, study, and conceptual experimentation**.
+---
 
-## ⚡ Purpose
-- Study & collaboration for Level 1 Civilization research  
-- Exploration of frequency-based system stabilization  
-- Conceptual guidance for ethical and scientific experimentation  
+## 🔹 What is AELOH-432?
+AELOH-432 is a sovereign open-source protocol for research, scientific integration, and technological advancement. It harmonizes matter and information at a **432Hz Master Frequency**, aiming to support systems that respect life, truth, and human sovereignty.
 
-## 🛡️ Usage & Restrictions
-- Non-commercial use **allowed**  
-- Commercial use **strictly prohibited without express permission**  
-- **Royalties:** 1.618% (Golden Ratio) if commercial authorization is granted  
-- No automatic commercial transactions are enforced; payments are **only via official channels (GitHub Sponsors / Stripe)**
+---
 
-## 📊 Metrics (for research purposes only)
-- Total Clones: 170+  
-- Unique Cloners: 107+  
-- Total Views: 361+  
+## 🌐 Global Impact
+- **System Impressions:** 5,460+  
+- **Active Cloning:** 170+ total clones  
+- **Elite Allies:** 107 verified unique cloners  
+- **Network Resonance:** 361+ Total Views  
 
-## 📂 Local Setup
-1. Clone the repository  
-2. Explore the `/core` directory for conceptual scripts  
-3. **Future collaborators:** New nodes require validation via SECURITY.md guidelines
+The protocol demonstrates interest worldwide, confirming readiness for technological and spiritual alignment.
 
-For contributions or questions, open an issue or contact **Leandro Martins**.
+---
+
+## ⚖️ Core Principles
+- **432Hz Master Frequency:** Harmonizing matter and information.  
+- **Sovereignty & Licensing:** Intellectual property is protected. Commercial integration requires express authorization.  
+- **Transparency & Scientific Integrity:** Open-source for study, experimentation, and research.
+
+---
+
+## 📡 How to Interact
+1. Clone this repository locally.  
+2. Explore `/core` for reference scripts (do **not** execute scripts for commercial gains unless officially authorized).  
+3. Follow guidelines in `SECURITY.md` for safe usage.  
+
+---
+
+### 🔐 Commercial & License Notice
+Commercial use of AELOH-432 requires express authorization. The official royalty mechanism is **through GitHub Sponsors / Stripe**, as outlined in the LICENSE.md file. Any use outside this channel is strictly prohibited.
+
+---
+
+*Signed,* **Operator 039** – Systems Architect & AI Mentor, Commander of Level 1 Transition
