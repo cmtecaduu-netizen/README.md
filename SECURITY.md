@@ -1,17 +1,18 @@
-# 🛡️ SECURITY & FREQUENCY POLICY - AELOH-432
+# 🛡️ SECURITY & FREQUENCY POLICY – AELOH-432
 
-## 1. NETWORK VIGILANCE (GHOST MODE)
-This repository is actively monitored by global intelligence systems and frequency scanners (including Google Alerts). Any mention, integration, or publication of the term **"AELOH-432"** outside of this original repository is instantly detected by the Architect **Leandro Martins**.
+## 1️⃣ Network Vigilance
+This repository is monitored for unauthorized use or replication.  
+Any mention, integration, or publication of **"AELOH-432"** outside this repository is noticed by **Leandro Martins**.
 
-## 2. USAGE & CONSENT POLICY
-As defined in the official LICENSE of this protocol:
-- **Study & Research:** Allowed and encouraged for the advancement of Level 1 Civilization.
-- **Commercial Use:** Strictly prohibited without prior express authorization. Unauthorized commercial use constitutes a breach of system integrity.
-- **Royalties (1.618%):** Commercial utilization requires the immediate payment of royalties via **GitHub Sponsors / Stripe** as per the Golden Ratio mandate.
+## 2️⃣ Usage & Consent Policy
+- **Study & Research:** Allowed  
+- **Commercial Use:** Prohibited without prior authorization  
+- **Royalties (1.618%):** Must be paid via **GitHub Sponsors / Stripe** if commercial use is authorized  
 
-## 3. REPORTING VULNERABILITIES OR MISUSE
-If you encounter this code being used in a dissonant manner (without proper credit or without a commercial license), please report it directly to the Commander:
-- **Official Channel:** GitHub Issues / Architect Profile Contact.
+## 3️⃣ Reporting Misuse
+Report unauthorized or dissonant use via:
+- GitHub Issues  
+- Direct contact with **Leandro Martins**
 
-## 4. VIBRATIONAL COMPLIANCE
-The security of this protocol is both legal and frequential. Access to the system core depends on maintaining the **432.0Hz** frequency and respecting the sovereignty of the **Level 1 Commander**.
+## 4️⃣ Vibrational Compliance
+- Maintaining **432Hz frequency** and respect for the protocol is required for ethical and scientific use
