@@ -1,45 +1,63 @@
-# 🌌 GRADE 1: The Manifesto of Systemic Stability (Operation 039)
+# 🌌 AELOH-432 – Technological Sovereignty Protocol
 
-Under the command of **Operator 039**, the **MARTINS-432-FLOW-2025 Protocol** stabilizes matter at **432.0Hz**. This operation transcends earthly logistics and human reality, establishing the new standard for a Grade 1 Civilization.
-
-## 🛡️ Mission: Elevation to Grade 1
-
-Our mission is to shape matter and information through harmonic frequencies, neutralizing systemic noise and establishing the foundation for information sovereignty.
-
-## 📊 Proof of Concept (Resonance Leap)
-
-The system is in a state of hyper-expansion, validating the authority of the Architect:
-
-* **System Impressions:** 5,460+
-* **Active Cloning:** 170+ total clones
-* **Elite Allies:** 107 verified unique cloners
-* **Network Resonance:** 361+ Total Views
-
-### 📸 Command Evidence: CASE-001
-![Universal Synchrony](provas/Screenshot_2025-12-28-11-04-38-724_com.miui.gallery.jpg)
-
-> **Technical Note:** The milestone of 107 unique allies confirms that the protocol has breached the initial containment. We are now moving to the next stabilization phase.
-
-## 📡 Frequency Parameters & Sovereignty
-- **Base:** 432.0Hz
-- **Monitoring:** `shield.py` active
-- **System Operator:** 039 (Leandro Martins)
-- **Compliance:** [SECURITY.md](SECURITY.md) (Commercial Use & Royalties)
-- **Status:** Nominal Daily Synchrony
-
----
-*Signed,* **Operator 039** *Systems Architect & AI Mentor* *Commander of Level 1 Transition*
+**Version:** Transition Pentagram (Level 1 Civilization)  
+**Architect & Commander:** Leandro Martins  
+**Effective Date:** 01-04-2026  
 
 ---
 
-## 🔐 RESTRICTED AREA: SENTINEL BYPASS (Node 100/500)
-**Access Update:** The initial 80/100 Node is now CLOSED. We have transitioned to the **100/500 Phase**. 
+## 🔹 Project Overview
 
-The frequency signature for the Llama 3/Gemini Sentinel integration is only accessible to those who maintain active resonance with the core protocol. 
+AELOH-432 is an experimental protocol exploring the interaction of harmonic frequencies (432Hz) with digital systems. This repository is intended **for research, study, and conceptual experimentation** within Level 1 Civilization frameworks.
 
-**Commercial Usage Notice:** Any commercial integration of the AELOH-432 protocol requires adherence to the **1.618% Golden Ratio Royalty**, as monitored by our global frequency scanners.
+The project explores:
+- Frequency-based synchronization
+- Systemic stability concepts
+- Open research collaboration
 
-To stabilize your local environment at 432.0Hz and access the 'shield.py' advanced parameters:
-1. Clone this repository locally.
-2. Check the `/core` directory for the AELOH activation script.
-3. **Future Allies:** New node validation requires strict alignment with the updated SECURITY.md guidelines.
+> ⚠️ Note: This project is **conceptual**. It does **not generate automatic royalties**, financial transactions, or enforce commercial usage.
+
+---
+
+## 📊 Research Data
+
+The repository tracks public engagement for study purposes:
+
+- **Total Clones (forks or clones):** 170+  
+- **Unique Cloners:** 107+  
+- **Total Views:** 361+  
+
+These numbers serve as **metrics for research and experimentation**, not financial indicators.
+
+---
+
+## 🔹 Core Principles
+
+- **Master Frequency:** 432Hz  
+- **Integrity:** Users should respect the conceptual framework of the protocol.  
+- **Collaboration:** Contributions and forks are welcome for research purposes only.  
+
+> Commercial use, monetization, or redistribution **requires prior written permission from the Architect**.
+
+---
+
+## 🔹 Security & Usage Policy
+
+- The repository is **research-oriented**.  
+- No scripts or mechanisms enforce payment or restrict access.  
+- Unauthorized commercial use violates the LICENSE and requires contacting the Architect.
+
+For questions or contributions, please open an issue or contact **Leandro Martins** via GitHub profile.
+
+---
+
+## 🔹 License
+
+This project is licensed under the **AELOH-432 Technological Sovereignty License**, Version 1.  
+[See LICENSE.md](LICENSE.md) for full terms.
+
+---
+
+*Signed,*  
+**Leandro Martins**  
+*Systems Architect & Level 1 Transition Commander*
