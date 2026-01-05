@@ -1,18 +1,16 @@
 # 🛡️ SECURITY & FREQUENCY POLICY – AELOH-432
 
 ## 1️⃣ Network Vigilance
-This repository is monitored for unauthorized use or replication.  
-Any mention, integration, or publication of **"AELOH-432"** outside this repository is noticed by **Leandro Martins**.
+This repository is monitored for integrity and frequency alignment. Any unauthorized distribution or misuse is detectable.
 
-## 2️⃣ Usage & Consent Policy
-- **Study & Research:** Allowed  
-- **Commercial Use:** Prohibited without prior authorization  
-- **Royalties (1.618%):** Must be paid via **GitHub Sponsors / Stripe** if commercial use is authorized  
+## 2️⃣ Usage & Consent
+- **Study & Research:** Allowed for advancing Level 1 Civilization.  
+- **Commercial Use:** Only with express authorization. Any unauthorized commercial use is prohibited.  
+- **Royalty Enforcement:** Only via official GitHub Sponsors / Stripe channels.
 
 ## 3️⃣ Reporting Misuse
-Report unauthorized or dissonant use via:
-- GitHub Issues  
-- Direct contact with **Leandro Martins**
+If AELOH-432 is used incorrectly:
+- Report through **GitHub Issues** or contact the Architect directly via the official repository.
 
 ## 4️⃣ Vibrational Compliance
-- Maintaining **432Hz frequency** and respect for the protocol is required for ethical and scientific use
+Access depends on maintaining the **432Hz Master Frequency** and respecting the sovereignty of the Level 1 Commander.
