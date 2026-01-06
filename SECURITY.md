@@ -1,25 +1,24 @@
 # 🛡️ Security Policy – AELOH-432
 
 ## Purpose
-This document describes how security, integrity, and responsible use are handled within the AELOH-432 repository.
+This document outlines how security-related concerns and responsible use are handled within the AELOH-432 repository.
 
 ## Allowed Use
-- **Study, research, and experimentation** are permitted in accordance with the LICENSE.
-- The project is provided "as is" for educational and scientific purposes.
+- Study, research, and experimentation are permitted as defined in the LICENSE.
+- The project is provided “as is” without warranties of any kind.
 
 ## Commercial Use
-- Any commercial use requires **explicit authorization** from the project owner.
-- Official monetization and royalty handling, if applicable, occurs **only through GitHub Sponsors and Stripe**, as described in the LICENSE.
+- Any commercial use requires explicit authorization from the project owner.
+- Official monetization or royalty handling, if applicable, occurs only through GitHub Sponsors and Stripe, as defined in the LICENSE.
 
 ## Reporting Issues or Misuse
-If you identify:
+If you discover:
 - Security vulnerabilities
 - License violations
 - Improper commercial usage
 
-Please report them via:
-- **GitHub Issues** (preferred)
+Please report them through GitHub Issues.
 
 ## Scope
-This policy does not imply active monitoring, surveillance, or tracking of users.
-All enforcement is handled through standard legal and platform-compliant mechanisms.
+This project does not perform active monitoring, surveillance, tracking, or automated enforcement.
+All compliance is handled through standard legal, ethical, and platform-compliant mechanisms.
