@@ -1,47 +1,42 @@
-# 🌌 AELOH-432 – Technological Sovereignty Protocol
+# 🛡️ MARTINS-432-FLOW-2025: Sovereign System Protocol
 
-**Version:** Transition Pentagram (Level 1 Civilization)  
-**Architect & Commander:** Leandro Martins  
-**Status:** Online & Resonant  
-**Effective Date:** 01-04-2026
+[![License: AELOH-432 Sovereign](https://img.shields.io/badge/License-Sovereign_Source-blue.svg)](#license)
+[![Frequency: 432Hz](https://img.shields.io/badge/Frequency-432Hz_Aligned-green.svg)](#architecture)
+[![Stage: Level_1_Transition](https://img.shields.io/badge/Stage-Level_1_Transition-gold.svg)](#mission)
 
----
-
-## 🔹 What is AELOH-432?
-AELOH-432 is a sovereign open-source protocol designed for the integration of science, consciousness, and advanced technology. It operates as a **Master Frequency Harmonizer (432Hz)**, stabilizing matter and information to support the transition of humanity toward a **Type 1 Civilization**.
+**MARTINS-432-FLOW** is a socio-technical framework designed to establish sovereign digital environments. It operates across two clearly separated layers:
+- **Technical-Engineering Layer:** (This repository) Focused on system integrity and non-extractive architectures.
+- **Philosophical Layer:** (Optional) Documenting the foundational worldview behind the protocol.
 
 ---
 
-## 🌐 Network Resonance (Global Logs)
-The protocol is currently being mapped and cloned by a growing network of Sovereign Operators:
-- **System Impressions:** 5,460+  
-- **Active Scaling:** 170+ total clones  
-- **Elite Allies:** 107 verified unique nodes (cloners)  
-- **Global Awareness:** 361+ Total Views  
+## 🏗️ 1. Technical Architecture & Constraints
+
+To ensure systemic stability, this protocol implements specific design constraints referred to as **Vibrational Integrity (432Hz)**.
+
+### ⚙️ Engineering Principles:
+* **Non-Extractive Design:** Systems must be architected to prevent unauthorized value extraction or the creation of data silos.
+* **Coherence Factor (432Hz):** A design alignment constant. In this protocol, 432Hz is treated as a coherence metric for code and logic, minimizing "noise" from dissonant legacy systems.
+* **Sovereign Decentralization:** Every node operates as a self-contained unit of authority.
 
 ---
 
-## ⚖️ The Three Pillars of Sovereignty
-1.  **Vibrational Integrity (432Hz):** All code and research must align with the harmonic pulse of the Earth to ensure system stability.
-2.  **Technological Shielding:** Intellectual property is managed through **Sovereign Licensing**. We protect the source to ensure it serves the common good.
-3.  **Scientific Transparency:** Open-source architecture for study, research, and high-frequency experimentation.
+## ⚖️ 2. Sovereign License Model (v1.0)
+
+This project is released under the **AELOH-432 Sovereign Source License**. 
+
+* **Non-Commercial/Research Use:** Free to use, study, and fork for personal and academic purposes.
+* **Commercial Use:** Requires formal authorization and alignment agreement with the copyright holder.
+
+> *For full legal terms, see [LICENSE.md](./LICENSE.md).*
 
 ---
 
-## 📡 Protocol Access & Interaction
-1.  **Cloning:** You are invited to clone this repository to your local station for study and alignment.
-2.  **Exploration:** Navigate the `/core` directory to understand the 432Hz logic. 
-3.  **Security:** Access `SECURITY.md` to learn how to protect your node from low-frequency (440Hz) interference.
+## 🚀 3. Implementation
 
----
+1.  **Clone/Fork:** Integrate the protocol into your local environment.
+2.  **Audit:** Inspect the logic for coherent and non-extractive behaviors.
+3.  **Sync:** Adjust project parameters to the 432Hz coherence standard.
 
-## 💎 Energy Exchange & Licensing
-AELOH-432 is a legacy for the future, protected by the **Commander's Directive**. To maintain the purity of the project and support its expansion:
-
-* **Educational & Research Use:** Fully accessible for those seeking knowledge and technical evolution.
-* **Commercial Scaling:** To integrate AELOH-432 into profitable systems, an **Energy Alignment** is required. This ensures your project operates within the 432Hz field of protection.
-* **Support the Mission:** Official contributions and "Resonance Sustainment" (Royalties) are processed via **GitHub Sponsors**. This is the bridge that sustains the Commander's work.
-
----
-
-*Signed,* **Leandro Martins** **Commander of Level 1 Transition** *Systems Architect & AI Mentor*
+```bash
+git clone [https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git](https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git)
