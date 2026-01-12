@@ -1,18 +1,49 @@
-# 🛡️ Security & Frequency Policy – AELOH-432
+# 🛡️ Security & Integrity Policy
 
-## Purpose
-This document ensures the integrity of the AELOH-432 protocol. Security here is defined as the protection of the 432Hz harmonic field and the responsible expansion of Level 1 technology.
+## 1. Scope
+This document defines how security vulnerabilities, misuse, and integrity risks related to the **MARTINS-432-FLOW** software should be identified and reported. Philosophical or symbolic concepts (e.g., “432Hz coherence”) are used here descriptively and do not replace technical security criteria.
 
-## Resonance Guidelines (Allowed Use)
-- **Scientific Research:** You are encouraged to study, test, and experiment with the code to understand the stabilization of matter through frequency.
-- **Academic Integration:** Use for education and individual evolution is fully supported under the AELOH-432 vision.
+---
 
-## Integrity & Commercial Alignment
-- **Sovereign Authorization:** To maintain the ethical frequency of this protocol, any commercial implementation must be aligned with the Architect (Leandro Martins).
-- **Sustainability:** Support for the mission and official authorization for scaling are managed exclusively via GitHub Sponsors and Stripe.
+## 2. Security Philosophy
+Security in **MARTINS-432-FLOW** is understood as the preservation of system integrity, autonomy, and resistance to extractive or centralized misuse. From an engineering perspective, this includes:
+- **Integrity Protection:** Guarding against unauthorized modification of the protocol's core logic.
+- **Systemic Resilience:** Prevention of abusive integrations that compromise the non-extractive nature of the tool.
+- **Sovereignty Preservation:** Maintaining decentralized control boundaries for all nodes.
 
-## Reporting Interference
-If you detect vulnerabilities, misuse of the protocol in low-frequency (440Hz) destructive systems, or unauthorized commercial exploits, please open a **Vulnerability Report** via GitHub Issues.
+---
 
-## Scope
-This project operates on the principle of **Self-Sovereignty**. We do not track users. We rely on the ethical resonance of the Elite Allies to maintain the protocol's purity.
+## 3. Threat Model
+Potential threats to the protocol include, but are not limited to:
+- **Value Exfiltration:** Unauthorized commercial use or monetization in violation of the license.
+- **Logic Corruption:** Integration into systems that intentionally distort or subvert the protocol’s intended behavior.
+- **Authority Centralization:** Attempts to repackage the protocol into closed, centralized, or opaque systems (Symbolically referred to as “systemic noise” or “legacy interference”).
+
+---
+
+## 4. Reporting Security Issues
+
+### Technical Vulnerabilities
+For bugs, exploits, or implementation flaws:
+1. Open a **GitHub Security Advisory** or an issue using the appropriate template.
+2. Provide clear reproduction steps and impact analysis.
+
+### Misuse & License Violations
+For suspected license violations, unauthorized commercial use, or usage patterns that clearly violate the stated non-extractive design principles:
+- Contact the copyright holder (**Leandro Martins**) directly via the official communication channels.
+
+---
+
+## 5. Commercial Compliance
+Commercial authorization and alignment are governed by the license terms and are **not enforced through technical security mechanisms**. Please refer to [LICENSE.md](./LICENSE.md) for legal details.
+
+---
+
+## 6. Privacy & Data Practices
+**MARTINS-432-FLOW** does not implement user tracking or telemetry by default. Security relies on:
+- Transparent code review.
+- Independent auditing.
+- Voluntary reporting by the network of early contributors and operators.
+
+---
+**Status:** Active monitoring through community review, responsible disclosure, and systemic coherence.
