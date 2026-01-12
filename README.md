@@ -40,7 +40,7 @@ This project is released under the **AELOH-432 Sovereign Source License**.
 
 ```bash
 git clone https://github.com/cmtecaduu-netizen/README.md.git && cd README.md
-
+````
 
 ---
 
