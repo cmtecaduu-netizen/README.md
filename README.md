@@ -34,7 +34,7 @@ This project is released under the **AELOH-432 Sovereign Source License**.
 
 ## 🚀 3. Implementation
 
-1.  **Clone/Fork:** Integrate the protocol into your local environment.
+1.  **Clone:** Integrate the protocol into your local environment.
 2.  **Audit:** Inspect the logic for coherent and non-extractive behaviors.
 3.  **Sync:** Adjust project parameters to the 432Hz coherence standard.
 
