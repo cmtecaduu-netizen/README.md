@@ -44,7 +44,8 @@ This project is released under the **AELOH-432 Sovereign Source License**.
 3.  **Sync:** Adjust project parameters to the 432Hz coherence standard.
 
 ```bash
-git clone https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git && cd MARTINS-432-FLOW-2025
+
+---
 
 ### 🏛️ Protocol Clarifications (Level 1 Defense)
 
