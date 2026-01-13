@@ -1,3 +1,8 @@
+# MARTINS-432-FLOW-2025
+![Status do Sentinela](https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025/actions/workflows/java-core-check.yml/badge.svg)
+
+---
+
 # 🛡️ MARTINS-432-FLOW-2025: Sovereign System Protocol
 
 [![License: AELOH-432 Sovereign](https://img.shields.io/badge/License-Sovereign_Source-blue.svg)](#license)
