@@ -44,14 +44,4 @@ This project is released under the **AELOH-432 Sovereign Source License**.
 3.  **Sync:** Adjust project parameters to the 432Hz coherence standard.
 
 ```bash
-git clone https://github.com/cmtecaduu-netizen/README.md.git && cd README.md
-```
-
----
-
-### 🏛️ Protocol Clarifications (Level 1 Defense)
-
-* **Vibrational Integrity:** 432Hz is utilized herein as a *Symbolic Coherence Constant* for logical alignment, defining the architectural harmony of the system rather than a literal physical frequency.
-* **Operational Sovereignty:** Sovereign decentralization refers to the *architectural autonomy* of the nodes. It does not exempt users from applicable laws or override established intellectual property rights and alignment agreements.
-* **Non-Extractive Intent:** This protocol defines "extraction" as any unauthorized data monetization, opaque telemetry, or the creation of closed data silos that degrade the 432-Flow.
-* **Status:** This framework is a socio-technical research protocol. It does not constitute legal, governmental, or regulatory authority. It is true because it is sufficient.
+git clone [https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git](https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git) && cd MARTINS-432-FLOW-2025
