@@ -1,0 +1,11 @@
+{
+  "protocol": "MARTINS-432-FLOW",
+  "version": "2025.1",
+  "authority": "Leandro Martins",
+  "documents": {
+    "LICENSE": "7d9c66f6e522964c489b88e0405899214737d6e4268e09e20076a08465053b1b",
+    "COMMERCIAL.md": "a3b1d9c2e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5a6b7c8d9e0f1"
+  },
+  "hash_algorithm": "sha256",
+  "signed_at": "2026-01-13"
+}
