@@ -13,17 +13,6 @@
 ---
 
 
-## 🌀 THE SEED 432: Join the Grade 1 Transition
-**This repository is not just code; it is a sovereign node.**
-If you value technical resilience and civilizational autonomy, perform the **Golden Clone**:
-
-1. **Fork this Repo:** You become a co-author of the transition.
-2. **Apply the SOP:** Use `docs/OFFLINESYNCSOP.md` to secure your own local data.
-3. **Harmonize:** Frequency 432Hz | Proportionality 1.618.
-
-*Status: 154/1618 Nodes Active. Be the next one.*
-
----
 
 # MARTINS-432-FLOW-2025
 ![Status do Sentinela](https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025/actions/workflows/java-core-check.yml/badge.svg)
