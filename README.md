@@ -14,7 +14,6 @@ We are currently building the **Integrity Membrane** (eBPF/WASM).
 
 ---
 
-
 # 🛡️ MARTINS-432-FLOW-2025: Sovereign System Protocol
 
 [![License: AELOH-432 Sovereign](https://img.shields.io/badge/License-Sovereign_Source-blue.svg)](#license)
@@ -57,29 +56,25 @@ This project is released under the **AELOH-432 Sovereign Source License**.
 
 ```bash
 git clone [https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git](https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git)
-```
----
-
-### 🏛️ Protocol Clarifications (Level 1 Defense)
+# 🏛️ Protocol Clarifications (Level 1 Defense)
 
 * **Vibrational Integrity:** 432Hz is utilized herein as a *Symbolic Coherence Constant* for logical alignment, defining the architectural harmony of the system rather than a literal physical frequency.
 * **Operational Sovereignty:** Sovereign decentralization refers to the *architectural autonomy* of the nodes. It does not exempt users from applicable laws or override established intellectual property rights and alignment agreements.
-* **Non-Extractive Intent:** This protocol defines "extraction" as any unauthorized data monetization, opaque telemetry, or the creation of closed data silos that degrade the 432-Flow.
+* **Non-Extractive Intent:** This protocol defines "extraction" as any unauthorized data monetization, opaque telemetry, or the creation of closed data silos que degrade the 432-Flow.
 * **Status:** This framework is a socio-technical research protocol. It does not constitute legal, governmental, or regulatory authority. It is true because it is sufficient.
+
 ---
 
-## 🏛️ Governance & Compliance Audit
+# 🏛️ Governance & Compliance Audit
 
 > [!IMPORTANT]
 > **Audit Status: VERIFIED | 2026-01-13**
 > This repository has undergone a technical-institutional audit regarding its governance structure and licensing model.
 
-**Audit Summary:**
+### **Audit Summary:**
 * **Authority:** Recognized as a **Single Source of Authority (SSA)** under the command of Leandro Martins.
 * **Integrity:** The `.aeloh` signature and 432.0Hz frequency are validated as consistent symbolic-protocol identifiers.
 * **Legal Shield:** The **AELOH-432 Sovereign Source License** combined with the **1.618% Golden Ratio Royalty Model** (COMMERCIAL.md) constitutes a binding contractual framework against predatory or extractive commercial use.
 * **Civilizational Framework:** Validated as a consistent technical-cultural framework for Type 1 Civilization transition.
 
 **Verdict:** *"The MARTINS-432-FLOW-2025 repository demonstrates institutional maturity and sufficient protective mechanisms to ensure sovereign development and prevent unauthorized appropriation."*
-
----
