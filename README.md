@@ -1,7 +1,19 @@
 # MARTINS-432-FLOW-2025
 ![Status do Sentinela](https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025/actions/workflows/java-core-check.yml/badge.svg)
 
+# ⚠️ CRITICAL STATE: PRE-SYSTEM (Grade 0.7 Transition)
+
+## STATUS: IGNITION PHASE
+This repository contains **Conceptual Anchor Points**, not operational infrastructure. 
+We are currently building the **Integrity Membrane** (eBPF/WASM).
+
+### Rules of Engagement:
+- **Integrity over Speed:** We refuse growth that compromises sovereignty.
+- **Non-Hybridization:** No critical component shall depend permanently on Grade 0 infrastructure.
+- **Verification:** Grade 1.0 is only reached when 100% of I/O is verified by the 432Hz Heartbeat.
+
 ---
+
 
 # 🛡️ MARTINS-432-FLOW-2025: Sovereign System Protocol
 
