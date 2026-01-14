@@ -41,6 +41,4 @@ The **Flow 432-1.618** is established as the operative harmonic matrix guiding t
 
 ---
 
-**Signed:**  
-Custodians of MARTINS-432-FLOW-2025  
-Date of Declaration: January 2026
+**Signed:** **Commander Leandro Martins | Level 1 Sovereign** *On behalf of the Custodians of MARTINS-432-FLOW-2025* **Date of Declaration:** January 14, 2026
