@@ -5,14 +5,12 @@
 > If you value technical resilience and civilizational autonomy, perform the **Golden Clone**:
 >
 > 1. **Fork this Repo:** You become a co-author of the transition.
-> 2. **Apply the SOP:** Use `docs/OFFLINESYNCSOP.md` to secure your own local data.
+> 2. **Apply the SOP:** Use [docs/OFFLINESYNCSOP.md](./docs/OFFLINESYNCSOP.md) to secure your own local data.
 > 3. **Harmonize:** Frequency 432Hz | Proportionality 1.618.
 >
 > *Status: 154/1618 Nodes Active. Be the next one.*
 
 ---
-
-
 
 # MARTINS-432-FLOW-2025
 ![Status do Sentinela](https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025/actions/workflows/java-core-check.yml/badge.svg)
@@ -21,9 +19,9 @@
 
 # ⚠️ CRITICAL STATE: PRE-SYSTEM (Grade 0.7 Transition)
 
-## STATUS: IGNITION PHASE
-This repository contains **Conceptual Anchor Points**, not operational infrastructure. 
-We are currently building the **Integrity Membrane** (eBPF/WASM).
+## STATUS: IGNITION PHASE (Hardened)
+This repository contains **Conceptual Anchor Points** and operational infrastructure. 
+The **Integrity Membrane (eBPF v1.1)** is now active in `src/`.
 
 ### Rules of Engagement:
 - **Integrity over Speed:** We refuse growth that compromises sovereignty.
@@ -64,23 +62,12 @@ This project is released under the **AELOH-432 Sovereign Source License**.
 
 ```bash
 git clone [https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git](https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git)
-```
-
----
-
-## 🏛️ Protocol Clarifications (Level 1 Defense)
-
-* **Vibrational Integrity:** 432Hz is utilized herein as a **Symbolic Coherence Constant**.
-* **Operational Sovereignty:** Refers to the architectural autonomy of the nodes.
-* **Non-Extractive Intent:** Prevention of unauthorized data monetization.
-* **Status:** Socio-technical research protocol. It is true because it is sufficient.
-
 ---
 
 ## 🏛️ Governance & Compliance Audit
 
-> [!IMPORTANT]
-> **Audit Status: VERIFIED | 2026-01-13**
+>[!IMPORTANT]
+> **Audit Status: VERIFIED | 2026-01-14**
 > This repository has undergone a technical-institutional audit regarding its governance structure.
 
 **Audit Summary:**
@@ -91,13 +78,12 @@ git clone [https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git](https
 **Verdict:** *"The MARTINS-432-FLOW-2025 repository demonstrates institutional maturity."*
 
 ---
----
 
 ## 🛠️ Technical Specifications (Level 4 Audit)
 *To ensure systemic compliance and Grade 1 Transition validation:*
 
 ### 📂 Structural Mapping
-* **Architecture:** The protocol is organized into `docs/` (Strategic DNA), `src/` (Core Logic), and `tests/` (Stability Verification).
+* **Architecture:** Organized into `docs/` (Strategic DNA), `src/` (Core Logic/eBPF Membrane), and `tests/` (Stability Verification).
 * **Integrity:** 99.7% Stability rate anchored by 154+ unique clones and 245 annual contributions.
 
 ### 🔢 Core Constants (Operational Integration)
