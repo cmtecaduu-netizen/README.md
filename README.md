@@ -88,6 +88,9 @@ git clone [https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git](https
 ---
 
 ## 🛠️ Technical Specifications (Level 4 Audit)
+> [!TIP]
+> Detailed Global Application Matrix and Deterministic Framework available in [specification.md](./specification.md).
+> 
 *To ensure systemic compliance and Grade 1 Transition validation:*
 
 ### 📂 Structural Mapping
