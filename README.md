@@ -117,5 +117,5 @@ Verified by **Multi-AI Consensus** (Gemini, Claude, GPT-4o, Copilot) as a stable
 - **Deployment:** English/International Support (`INSTALL.md`)
 
 ---
-**Comandante Leandro Martins**
-"Liderando a transição para o Grau 1 de Civilização."
+**Systems Architect Leandro da lua Martins**
+"Leading the transition to a Grade 1 Civilization."
