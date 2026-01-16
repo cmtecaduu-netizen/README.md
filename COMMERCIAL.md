@@ -1,9 +1,9 @@
 # ⚖️ Commercial Use & Licensing Policy
 
 ## 1. Nature of the Project
-MARTINS-432-FLOW-2025 is released as a **Source-Available** project. It is intended strictly for **non-commercial study, academic research, and personal experimentation**. 
+MARTINS-432-FLOW-2025 is a **Layer 0 Sovereign Infrastructure** project released as **Source-Available**. It is intended strictly for **non-commercial study, academic research, and personal experimentation**. 
 
-> **Note:** This is not an "Open Source" license under OSI definitions; it is a Sovereign Source model governed by the Architect.
+> **Note:** This is not an "Open Source" license under OSI definitions; it is a Sovereign Source model governed by the Systems Architect.
 
 ## 2. Commercial Authorization
 Any commercial application, including but not limited to:
@@ -11,7 +11,7 @@ Any commercial application, including but not limited to:
 * Redistribution for commercial gain.
 * Use as a core service in SaaS or Fintech environments.
 
-Requires a **formal, written Commercial Licensing Agreement** executed by the Author (Leandro Martins). Unauthorized commercial use is strictly prohibited and constitutes a violation of the Sovereign Source terms.
+Requires a **formal, written Commercial Licensing Agreement** executed by the Author (**Leandro da lua Martins**). Unauthorized commercial use is strictly prohibited and constitutes a violation of the Sovereign Source terms.
 
 ## 3. Financial Model & Royalties
 Commercial agreements under this protocol are subject to a **negotiated royalty structure**. 
@@ -23,5 +23,5 @@ Contributions made via official channels (**GitHub Sponsors, Stripe, or Crypto-w
 
 ## 5. Formal Inquiries
 For institutional audits, enterprise licensing, or partnership protocols, contact the Architect directly:
-- **Lead Architect:** Leandro Martins
+- **Lead Architect:** Leandro da lua Martins
 - **Official Contact:** cmte.caduu@gmail.com
