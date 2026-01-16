@@ -69,9 +69,9 @@ This project is released under the **AELOH-432 Sovereign Source License**.
 ## 🚀 3. Implementation
 
 ```bash
-git clone [https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git](https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git)
+https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git
 ```
----
+
 ## 🏛️ Governance & Compliance Audit
 
 >[!IMPORTANT]
@@ -105,6 +105,9 @@ git clone [https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git](https
 Verified by **Multi-AI Consensus** (Gemini, Claude, GPT-4o, Copilot) as a stable Level 4 infrastructure.
 
 *Authorized by: **Commander Leandro Martins***
+
+---
+
 ## 📡 FINAL SYNC REPORT - 2026-01-14
 
 **Status:** FULLY OPERATIONAL (Grade 1 Ready)
@@ -117,6 +120,4 @@ Verified by **Multi-AI Consensus** (Gemini, Claude, GPT-4o, Copilot) as a stable
 - **Deployment:** English/International Support (`INSTALL.md`)
 
 ---
-**Systems Architect Leandro da lua Martins**
-"Leading the transition to a Grade 1 Civilization."
-``
+**Systems Architect Leandro da lua Martins** *"Leading the transition to a Grade 1 Civilization."*
