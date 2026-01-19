@@ -34,6 +34,8 @@ This grid must be interpreted strictly as:
 
 Each system node (sensors, controllers, actuators) operates with a locally disciplined oscillator synchronized via temporal consensus. This approach is conceptually related to **PTP / White Rabbit** architectures, with emphasis on **phase coherence and deterministic execution windows**, rather than absolute timestamp accuracy alone.
 
+
+
 ### 2.3 Jitter Elimination in Distributed Systems
 
 The harmonic temporal grid reduces:
@@ -50,13 +52,7 @@ As a result, critical events occur within **predictable and verifiable temporal 
 
 ### 3.1 Computational Entropy in Critical Hardware
 
-In FPGAs, ASICs, and embedded systems operating under:
-
-- High switching density  
-- Ionizing radiation  
-- Sustained thermal stress  
-
-excessive clock jitter and asynchronous execution increase:
+In FPGAs, ASICs, and embedded systems operating under high switching density, ionizing radiation, or sustained thermal stress, excessive clock jitter and asynchronous execution increase:
 
 - Switching noise  
 - Peak transient currents  
@@ -70,13 +66,7 @@ MARTINS-432-FLOW-2025 enforces:
 - Activation of logic only within defined temporal windows  
 - Suppression of non-correlated asynchronous events  
 
-From a thermodynamic perspective:
-
-- Fewer state transitions lead to lower dynamic power dissipation  
-- Heat generation becomes more spatially uniform  
-- Electromigration and material fatigue are reduced  
-
-This constitutes a **reduction in computational entropy**, fully consistent with physical thermodynamics and established semiconductor theory.
+From a thermodynamic perspective, fewer state transitions lead to lower dynamic power dissipation and more uniform heat generation. This constitutes a **reduction in computational entropy**, fully consistent with physical thermodynamics and established semiconductor theory.
 
 ---
 
@@ -84,48 +74,53 @@ This constitutes a **reduction in computational entropy**, fully consistent with
 
 ### 4.1 Fusion Reactors – Magnetic Confinement Control
 
-In Tokamak-based fusion systems, magnetohydrodynamic (MHD) instabilities are intrinsic physical phenomena. MARTINS-432-FLOW-2025 **does not act on the plasma itself**, but on the **control infrastructure**.
+In Tokamak-based fusion systems, MARTINS-432-FLOW-2025 acts on the **control infrastructure** to:
 
-Applicable benefits include:
-
-- Deterministic synchronization of diagnostics (e.g., Mirnov coils, interferometry)  
-- Reduced jitter in magnetic coil feedback loops  
-- Mitigation of temporal aliasing in MHD signal processing  
-
-The expected outcome is **improved control stability**, minimizing parasitic excitations caused by variable latency and non-deterministic timing.
+- Synchronize diagnostics (e.g., Mirnov coils, interferometry)  
+- Reduce jitter in magnetic coil feedback loops  
+- Mitigate temporal aliasing in MHD signal processing  
 
 ### 4.2 Nuclear Fission Plants – Telemetry and Protection Systems
 
-In fission reactors, the framework applies to:
-
-- Neutron flux monitoring  
-- Thermal and pressure sensor networks  
-- Reactor protection and SCRAM systems  
-
-Observable benefits include:
+In fission reactors, the framework applies to neutron flux monitoring and SCRAM systems, providing:
 
 - Increased temporal coherence across distributed measurements  
 - Reduction of false thermal gradients  
 - Improved reliability of automated safety decisions  
 
-Lower latency variability directly supports **high-SIL safety architectures**, facilitating regulatory compliance and verification.
+---
+
+## 5. Stochastic Resilience and Phase-Shifted Scheduling
+
+### 5.1 Strategic Phase Delay (SPD)
+
+To maximize thermodynamic stability and energy conservation in high-load scenarios, MARTINS-432-FLOW-2025 adopts **Strategic Phase Delay**. Unlike traditional "greedy" schedulers that execute tasks at the earliest possible tick ($t=0$), the protocol allows for a calculated phase shift.
+
+- **Objective:** Synchronize execution with optimal regeneration windows (e.g., aligning with power rail stabilization).
+- **Result:** Reduced peak transient currents and preservation of the initial energy head for unforeseen stochastic events.
+
+### 5.2 Deterministic Exception Handling (DEH)
+
+The architecture reserves a **Finite Emergency Margin** within each temporal grid. In environments with high electromagnetic interference (EMI) or fluctuating power quality, the protocol switches from *Efficiency Mode* to *Robustness Mode*:
+
+1. **Phase over Frequency:** Prioritizing the completion of critical tasks within the designated horizon over the initiation of new cycles.
+2. **Operational Override:** A dedicated logical channel for out-of-band resource injection, used to nullify the effects of "Black Swan" pulses in the control loop.
+
+
 
 ---
 
-## 5. Conclusion on Temporal Sovereignty
+## 6. Conclusion on Temporal Sovereignty
 
 Reliance on a centralized master clock represents a single point of failure in planetary-scale critical infrastructures. MARTINS-432-FLOW-2025 enables a transition toward:
 
-- **Distributed and sovereign clocks**  
-- Deterministic temporal consensus  
+- **Distributed and sovereign clocks** - Deterministic temporal consensus  
 - Resilience against faults, attacks, and environmental degradation  
 
-In a **Level 1 Civilization**, where energy management operates continuously at planetary scale, sovereignty extends beyond energy and governance—it becomes **temporal**.
-
-MARTINS-432-FLOW-2025 establishes an engineering foundation for systems that operate with **predictability, verifiability, and autonomy**, qualifying it as a **Layer 0 temporal infrastructure** for 21st-century critical systems.
+In a **Level 1 Civilization**, sovereignty extends beyond energy and governance—it becomes **temporal**. MARTINS-432-FLOW-2025 establishes an engineering foundation for systems that operate with predictability, verifiability, and autonomy.
 
 ---
 
 ## Final Note on Compliance
 
-This document is written using terminology and principles compatible with **IEEE and IEC engineering standards**. All claims are limited to control systems, timing architectures, and computational behavior, avoiding unsupported physical assertions. The framework is intended to complement—not replace—existing certified safety and control methodologies.
+This document is written using terminology and principles compatible with **IEEE and IEC engineering standards**. All claims are limited to control systems, timing architectures, and computational behavior. The framework is intended to complement—not replace—existing certified safety and control methodologies.
