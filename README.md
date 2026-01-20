@@ -1,3 +1,17 @@
+# 🏛️ MARTINS-432-FLOW | Level 1 Protocol
+
+### 📑 Sovereignty & Compliance Documentation
+* [📜 **Protocol Manifesto**](./PROTOCOL_MANIFESTO.md)  
+  *The theoretical framework, 432Hz cadence, and AELOH-432 economic homeostasis.*
+  
+* [🛡️ **Technical White Paper**](./WHITE_PAPER.md)  
+  *Institutional compliance, institutional positioning, and safety boundaries.*
+  
+* [✅ **Audit Report**](./AUDIT_REPORT.md)  
+  *Technical verdict on logical integrity and Sigma Clock V2.5 resilience.*
+
+---
+
 # MARTINS-432-FLOW-2025
 
 ---
