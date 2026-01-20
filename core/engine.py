@@ -1,4 +1,4 @@
-# MARTINS-432-FLOW-2025 | Core Engine - Sigma Clock V2.1 (Path Shielded)
+# MARTINS-432-FLOW-2025 | Core Engine - Sigma Clock V2.2 (Defesa Ativa Nível 2)
 import yaml
 import os
 from enum import Enum
@@ -12,7 +12,6 @@ class SigmaClock:
     def __init__(self, config_path=None):
         # 1. Blindagem de Caminho: Localiza a raiz do projeto automaticamente
         if config_path is None:
-            # Pega o diretório onde este arquivo (engine.py) está e sobe um nível
             base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
             config_path = os.path.join(base_dir, "config.yaml")
 
@@ -35,6 +34,9 @@ class SigmaClock:
         self.state = SigmaState.RUNNING
         self.failure_count = 0
         self.stable_count = 0
+        
+        # 3. Módulo de Defesa Ativa (Nível 2)
+        self.last_friction = 0.0
 
     def get_friction(self, value):
         """Calcula o atrito lógico entre a observação e o alvo."""
@@ -44,9 +46,18 @@ class SigmaClock:
         """O Coração do Relógio: Avalia se o avanço é autorizado."""
         friction = self.get_friction(observed_value)
         
+        # Verifica padrões de ataque antes de tratar o estado
+        self._analyze_entropy(friction)
+        
         if self.state == SigmaState.SILENCE:
             return self._handle_silence(friction)
         return self._handle_running(friction)
+
+    def _analyze_entropy(self, current_friction):
+        """Analisa se o atrito atual repete um padrão de desvio."""
+        if current_friction > self.tolerance and current_friction == self.last_friction:
+            print("🚨 ALERTA DE DEFESA: Ataque de desvio sistemático detectado!")
+        self.last_friction = current_friction
 
     def _handle_running(self, friction):
         """Comportamento em estado de operação normal."""
