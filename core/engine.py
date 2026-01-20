@@ -1,28 +1,76 @@
-# MARTINS-432-FLOW-2025 | Core Engine
-# Protocol: AELOH-432 (Level 1 Civilization)
+# MARTINS-432-FLOW-2025 | Core Engine - Sigma Clock V2
+import yaml
+from enum import Enum
+
+class SigmaState(Enum):
+    RUNNING = "running"
+    SILENCE = "silence"
+    FAULT = "fault"
 
 class SigmaClock:
-    def __init__(self):
-        self.frequency = 432.0  # Hz
-        self.integrity_level = 4
-        self.is_stabilized = False
+    def __init__(self, config_path="config.yaml"):
+        # 1. Conexão Real com o Cérebro (YAML)
+        try:
+            with open(config_path, "r") as f:
+                cfg = yaml.safe_load(f)
+                sigma_cfg = cfg["sigma_clock"]
+                
+            self.target = sigma_cfg["target_value"]
+            self.tolerance = sigma_cfg["tolerance"]
+            self.silence_after = sigma_cfg["silence_after"]
+            self.recovery_window = sigma_cfg["recovery_window"]
+        except Exception as e:
+            print(f"Erro ao carregar configuração: {e}")
+            # Valores de emergência caso o YAML falhe
+            self.target, self.tolerance = 432.0, 0.001
+            self.silence_after, self.recovery_window = 3, 5
 
-    def check_friction(self, primary_observer, secondary_observer):
-        """
-        Calculates the delta between observers.
-        System only ticks if Delta < Tau.
-        """
-        delta = abs(primary_observer - secondary_observer)
-        tau = 0.001 # Tolerance threshold
+        self.state = SigmaState.RUNNING
+        self.failure_count = 0
+        self.stable_count = 0
+
+    def get_friction(self, value):
+        """Calcula o atrito lógico entre a observação e o alvo."""
+        return abs(value - self.target)
+
+    def evaluate_tick(self, observed_value):
+        """O Coração do Relógio: Avalia se o avanço é autorizado."""
+        friction = self.get_friction(observed_value)
         
-        if delta < tau:
-            self.is_stabilized = True
-            print(f"Σ-Clock: Tick Synchronized at {self.frequency}Hz")
-            return True
-        else:
-            print("Σ-Clock: Abort Tick executed. Waiting for Convergence...")
-            return False
+        if self.state == SigmaState.SILENCE:
+            return self._handle_silence(friction)
+        return self._handle_running(friction)
 
-# Initializing the Sovereign Grid
-grid_clock = SigmaClock()
-          
+    def _handle_running(self, friction):
+        """Comportamento em estado de operação normal."""
+        if friction <= self.tolerance:
+            self.failure_count = 0
+            print("✔ Tick Σ Autorizado.")
+            return True
+        
+        self.failure_count += 1
+        print(f"⚠ Atrito detetado: {friction:.4f} (Falha {self.failure_count}/{self.silence_after})")
+        
+        if self.failure_count >= self.silence_after:
+            self.state = SigmaState.SILENCE
+            self.stable_count = 0
+            print("🛑 BLOQUEIO: Entrando em SILÊNCIO OPERACIONAL")
+        return False
+
+    def _handle_silence(self, friction):
+        """O 'Deep Freeze': Proteção contra instabilidade persistente."""
+        print(f"--- SISTEMA EM SILÊNCIO --- Atrito atual: {friction:.4f}")
+        
+        if friction <= self.tolerance:
+            self.stable_count += 1
+            print(f"✨ Estabilidade observada ({self.stable_count}/{self.recovery_window})")
+            
+            if self.stable_count >= self.recovery_window:
+                self.state = SigmaState.RUNNING
+                self.failure_count = 0
+                print("♻ RECONEXÃO: Saindo do silêncio. Relógio Σ retomado.")
+        else:
+            self.stable_count = 0
+            print("❌ Instabilidade persiste. O Silêncio é mantido.")
+            
+        return False
