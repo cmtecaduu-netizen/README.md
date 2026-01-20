@@ -1,22 +1,8 @@
-# MARTINS-432-FLOW-2025 Configuration
-# Sovereignty Parameters - Level 1
-
 system:
-  name: "AELOH-432"
-  version: "1.0.0"
-  author: "Leandro Martins"
+  name: "MARTINS-432-FLOW-2025"
 
-physics:
-  target_frequency: 432.0
-  unit: "Hz"
-  stability_threshold: 0.001
-
-security:
-  integrity_protocol: "Level 4"
-  abort_on_divergence: true
-  shield_2fa: active
-
-observability:
-  log_friction: true
-  primary_observer: "Neural_Net"
-  secondary_observer: "SoC_Hardware"
+sigma_clock:
+  target_value: 432.0
+  tolerance: 0.001
+  silence_after: 3      # Falhas consecutivas para silenciar
+  recovery_window: 5    # Ticks estáveis para retomar
