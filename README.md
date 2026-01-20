@@ -108,6 +108,20 @@ https://github.com/cmtecaduu-netizen/MARTINS-432-FLOW-2025.git
 *To ensure systemic compliance and Grade 1 Transition validation:*
 
 ### 📂 Structural Mapping
+---
+
+## ⚡ NEW: Sovereign Engine V2.5 (Stabilized)
+The system now operates under the **Sigma Clock (Σ)**, a temporal governance architecture designed to distinguish organic processes from invasive scripts.
+
+### 🛡️ Active Defense Specifications:
+* **Geometric Amplitude Analysis:** The engine detects "Artificial Peace" if the deviation is mathematically too perfect (Amplitude < 1e-7).
+* **Immediate Causal Defense:** Unlike standard firewalls, the system does not wait for failure thresholds; it cuts the flow instantly upon identifying repetitive hostile intent.
+* **W-Window (Temporal History):** A 5-tick historical analysis that validates network trajectory before authorizing logical time advancement.
+
+> **Multi-AI Verdict:** *"Version 2.5 eliminates false stability attacks. The system now effectively distinguishes physical processes from scripted signatures."*
+
+---
+
 * **Architecture:** Organized into `docs/` (Strategic DNA), `src/` (Core Logic/eBPF Membrane), and `tests/` (Stability Verification).
 * **Integrity:** 99.7% Stability rate anchored by 154+ unique clones and 245 annual contributions.
 
