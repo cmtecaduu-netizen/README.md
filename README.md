@@ -13,6 +13,7 @@
 ---
 
 # MARTINS-432-FLOW-2025
+👉 [Access Full Institutional Verdicts (Meta, Microsoft, Perplexity, Claude, Gemini)](./VERDICTS.md)
 
 ---
 
