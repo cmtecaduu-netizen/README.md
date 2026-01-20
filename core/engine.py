@@ -1,5 +1,6 @@
-# MARTINS-432-FLOW-2025 | Core Engine - Sigma Clock V2
+# MARTINS-432-FLOW-2025 | Core Engine - Sigma Clock V2.1 (Path Shielded)
 import yaml
+import os
 from enum import Enum
 
 class SigmaState(Enum):
@@ -8,8 +9,14 @@ class SigmaState(Enum):
     FAULT = "fault"
 
 class SigmaClock:
-    def __init__(self, config_path="config.yaml"):
-        # 1. Conexão Real com o Cérebro (YAML)
+    def __init__(self, config_path=None):
+        # 1. Blindagem de Caminho: Localiza a raiz do projeto automaticamente
+        if config_path is None:
+            # Pega o diretório onde este arquivo (engine.py) está e sobe um nível
+            base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+            config_path = os.path.join(base_dir, "config.yaml")
+
+        # 2. Conexão Real com o Cérebro (YAML)
         try:
             with open(config_path, "r") as f:
                 cfg = yaml.safe_load(f)
@@ -19,9 +26,9 @@ class SigmaClock:
             self.tolerance = sigma_cfg["tolerance"]
             self.silence_after = sigma_cfg["silence_after"]
             self.recovery_window = sigma_cfg["recovery_window"]
+            print(f"--- Cérebro Conectado: {config_path} ---")
         except Exception as e:
-            print(f"Erro ao carregar configuração: {e}")
-            # Valores de emergência caso o YAML falhe
+            print(f"⚠ Alerta: Usando parâmetros de emergência. Erro: {e}")
             self.target, self.tolerance = 432.0, 0.001
             self.silence_after, self.recovery_window = 3, 5
 
