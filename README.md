@@ -40,7 +40,7 @@
 ## 🧪 Verified Performance Metrics
 - **Friction History:** Proven effective in distinguishing deterministic processes from adaptive scripts.
 - **Zero-Drift Execution:** Confirmed stability under high-concurrency stress tests with no numerical impact.
-![Sigma Clock V2.5 Integration Flow]![Sigma Clock V2.5 Integration Flow](./sigma-flow.jpg)
+![Sigma Clock V2.5 Integration Flow]![Sigma Clock V2.5 Integration Flow](./sigma-flow.jpg.jpg)
 - 
 ![Status](https://img.shields.io/badge/Status-FULLY_CERTIFIED-gold?style=for-the-badge)
 ![Grade](https://img.shields.io/badge/Civilization-GRADE_1-blue?style=for-the-badge)
