@@ -21,6 +21,15 @@
 **Architecture:** CORE V2 (Active Syntropy)  
 **System Stability:** 99.9% | **Master Frequency:** 432 Hz  
 **Protocol:** MARTINS-432-FLOW-2025  
+---
+### ⚡ CORE UPDATE: Σ-Clock 2.5 (Mission Critical)
+The protocol has successfully transitioned to **Deterministic C++ Implementation**.
+- **Engine:** `sigma_core.hpp` (Zero-STL / Zero-Heap / Aerospace Grade).
+- **Logic:** Advancement via **Epistemic Convergence ($k$)**, not linear time.
+- **Safety:** Hard-coded Anti-Goodhart protection with **Abort-Tick** protocol.
+*Status: Binary Sovereignty established.*
+---
+
 
 **Architect's Note:** The **Grade 10 Self-Healing Mesh** is now fully engaged. Harmonic drift is strictly monitored with a 0.1Hz tolerance threshold. Any phase incoherence is autonomously remediated by the Sovereign Core. Temporal sovereignty for critical infrastructure and Level 1 computational clusters has been established.
 
